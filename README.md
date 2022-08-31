@@ -1,5 +1,6 @@
 # arabcodingteam
 coke any where qb-core
+
 *
 
 qb-core\shared\items
